@@ -25,7 +25,30 @@ int main(){
     printf("PIB: %2f\n", Pib1);
     printf("Pontos Turisticos: %d\n", Pontoturistico1);
 
+    
+
     //Declaracao de  vaiaveis  carta 2
+
+    char Estado2 = 'D';
+    char Codigo_carta2[10] = "D02";
+    char Cidade2[32] = "Fortaleza";
+    int Populacao2 = 250000;
+    float Area2 = 4450;
+    float Pib2 = 55666;
+    int Pontoturistico2 = 60;
+
+    printf(" Dados da Carta 2\n");
+    printf( "Estado: %c\n", Estado2);
+    printf("Codigo da Carta: %s\n", Codigo_carta2);
+    printf("Nome da Cidade:%s\n",Cidade2);
+    printf("Populacao:%d", Populacao2);
+    printf("Area:%2f\n", Area2);
+    printf("PIB:%2f\n", Pib2);
+    printf("Pontos Turisticos:%d\n", Pontoturistico2);
+
+
+    return 0;
+
 
 
     
