@@ -25,6 +25,9 @@ int main(){
     printf("PIB: %2f\n", Pib1);
     printf("Pontos Turisticos: %d\n", Pontoturistico1);
 
+    //Declaracao de  vaiaveis  carta 2
+
+
     
 }
 
